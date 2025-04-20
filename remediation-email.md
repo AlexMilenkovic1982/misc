@@ -13,5 +13,6 @@ Based on our initial vulnerability scan and assessment, we have created a set of
 Let me know if you have any questions or need any adjustments!
 
 Best regards,  
-[Your Name], Security Analyst  
-Governance, Risk, and Compliance
+
+**[Your Name], Security Analyst  
+Governance, Risk, and Compliance**
